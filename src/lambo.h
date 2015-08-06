@@ -1,3 +1,7 @@
+#ifndef __LAMBO_H__
+#define __LAMBO_H__
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -6,6 +10,8 @@
 #endif
 
 #ifdef _WIN32
+
+static char buffer[2048];
 
 /* Fake readline function */
 char* readline(char* prompt) {
@@ -26,3 +32,6 @@ void add_history(char* unused) {}
 
 // add def for project title
 // add def for project name
+
+
+#endif/*__LAMBO_H__*/

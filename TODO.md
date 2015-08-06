@@ -4,3 +4,5 @@
   * LISt Processing
   * LAMbda Processing
   * LAMBda prOcessing - LAMBO! Sheep with headband and a gun ...
+* [ ] use only basic forms:
+  * 
