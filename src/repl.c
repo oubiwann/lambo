@@ -4,8 +4,8 @@
 
 void show_banner () {
   /* Print Version and Exit Information */
-  puts("LAMBO Version 0.0.0.0.1");
-  puts("Press Ctrl+c to Exit\n");
+  printf("%s Version 0.0.0.0.1\n", PROJECT_TITLE);
+  printf("Press Ctrl+c to Exit\n\n");
 }
 
 
@@ -33,7 +33,8 @@ int main(int argc, char** argv) {
   while (1) {
 
     /* Output our prompt and get input */
-    char* input = readline("lambo> ");
+    printf("%s> ", PROJECT_NAME);
+    char* input = readline("");
 
     /* Add input to history */
     add_history(input);
