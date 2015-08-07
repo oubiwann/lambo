@@ -10,8 +10,16 @@ TBD
 
 ## Building
 
-TBD
+```bash
+$ make
+```
 
 ## Using
 
-TBD
+```bash
+$ ./bin/lambo
+```
+
+There's nothing really implemented yet, though.
+
+See the [TODO](TODO.md) for what's on the list.
