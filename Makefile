@@ -1,5 +1,5 @@
 compile: bin
-	cc -std=c99 -Wall \
+	cc -Wall \
 	src/eval.c \
 	src/parser.c \
 	src/mpc.c \
