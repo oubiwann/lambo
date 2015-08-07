@@ -1,6 +1,6 @@
 # LAMBO
 
-<strong>LAMB</strong><em>da pr</em><strong>O</strong><em>cessing</em>
+<strong>LAMB</strong><em>da pr</em><strong>O</strong><em>cessor</em>
 
 <img src="resources/images/Lambo-x250.png" />
 
