@@ -1,17 +1,25 @@
-= LAMBO =
+# LAMBO
 
 <strong>LAMB</strong><em>da pr</em><strong>O</strong><em>cessing</em>
 
 <img src="resources/images/Lambo-x250.png" />
 
-== Background ==
+## Background
 
 TBD
 
-== Building ==
+## Building
 
-TBD
+```bash
+$ make
+```
 
-== Using ==
+## Using
 
-TBD
+```bash
+$ ./bin/lambo
+```
+
+There's nothing really implemented yet, though.
+
+See the [TODO](TODO.md) for what's on the list.
